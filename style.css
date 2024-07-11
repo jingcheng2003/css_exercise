@@ -1,0 +1,29 @@
+body{
+    height: 1500px;
+}
+
+.blueRec{
+    width: 80px;
+    height: 80px;
+    background-color: blue;
+}
+.redRec{
+    width: 120px;
+    height: 120px;
+    background-color: red;
+}
+.out1, .out2{
+    padding: 30px;
+    border: 5px solid red;
+}
+.blackRec{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(0, 0, 0);
+}
+
+.container div{
+    border: 1px solid black;
+    padding: 10px;
+    width: 100px;
+}
